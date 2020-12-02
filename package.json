@@ -9,11 +9,25 @@
   },
   "dependencies": {
     "expo": "~39.0.2",
+    "expo-image-picker": "^9.1.1",
     "expo-status-bar": "~1.0.2",
+    "firebase": "^8.1.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-drawer": "^2.5.1",
+    "react-native-elements": "^3.0.0-alpha.1",
+    "react-native-gesture-handler": "^1.9.0",
+    "react-native-reanimated": "^1.13.2",
+    "react-native-safe-area-context": "^3.1.9",
+    "react-native-screens": "^2.0.0-alpha.12",
+    "react-native-swipe-list-view": "^3.2.5",
+    "react-native-web": "~0.13.12",
+    "react-navigation": "^4.4.0",
+    "react-navigation-drawer": "^2.5.0",
+    "react-navigation-stack": "^2.8.3",
+    "react-navigation-tabs": "^2.9.0",
+    "react-screens": "^1.0.9"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0"
